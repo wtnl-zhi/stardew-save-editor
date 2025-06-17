@@ -30,3 +30,4 @@ jobs:
       with:
         name: StardewEditor
         path: dist/星露谷存档修改器.exe
+# GitHub Actions for Stardew Save Editor
